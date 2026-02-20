@@ -6,9 +6,9 @@ puppeteer.use(StealthPlugin());
 
 class EternalGhostBotV21 {
     constructor() {
-        this.targetWord = "LearnWithBlog.xyz";
-        this.targetDomain = "learnwithblog.xyz";
-        this.referrerUrl = "https://x.com/GhostReacondev/status/2013213212175724818";
+        this.targetWord = "learnblogs.online";
+        this.targetDomain = "learnblogs.online";
+        this.referrerUrl = "https://x.com/GhostReacondev/status/2024921591520641247?s=20";
         
         // --- ALL 20+ DEVICES PRESERVED ---
         this.devices = [
